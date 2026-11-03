@@ -1,4 +1,3 @@
-# Freshself-AI
 # 🥗 FreshShelf AI Dashboard
 
 **Automated shelf-life estimation, biochemical decay analysis, and dynamic markdown triage.**
